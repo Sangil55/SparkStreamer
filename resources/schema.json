@@ -1,0 +1,10 @@
+# 필드당 한 줄의 json으로 정의해주세요.
+# name : 필드명
+# type : Spark 자료형
+# nullable : null 값 가능 여부
+{"name":"result",  "type":"StringType", "nullable":"true"}
+{"name":"jobid",  "type":"StringType", "nullable":"true"}
+{"name":"host",  "type":"StringType", "nullable":"true"}
+{"name":"time",  "type":"StringType", "nullable":"true"}
+{"name":"c_msg_id",  "type":"StringType", "nullable":"true"}
+{"name":"type",  "type":"StringType", "nullable":"true"}
